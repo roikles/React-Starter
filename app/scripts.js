@@ -3,7 +3,6 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
 var ReactRouter = require('react-router');
-var ReactAnimations = require('react-addons-css-transition-group');
 
 import { hashHistory } from 'react-router';
 //import Home from './components/home';
